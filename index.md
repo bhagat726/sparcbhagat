@@ -1,6 +1,6 @@
 ---
 *Only Yesterday*
----
+-
 
 
 - Looking out the window
@@ -12,6 +12,4 @@
 - Where did it all began
 - Where will it all end
 
-<a href=http://www.columbia.edu/itc/mealac/pritchett/00ghalib/>
-A Desertful of Roses
-</a>
+<a href="http://www.columbia.edu/itc/mealac/pritchett/00ghalib/"> A Desertful of Roses </a>
